@@ -1,0 +1,278 @@
+{
+    "formatVersion": "1.1",
+    "component": {
+        "group": "com.testrockappreact",
+        "module": "testrockapp",
+        "version": "0.0.1-local",
+        "attributes": {
+            "org.gradle.status": "release"
+        }
+    },
+    "createdBy": {
+        "gradle": {
+            "version": "8.14.3"
+        }
+    },
+    "variants": [
+        {
+            "name": "debugVariantDefaultApiPublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "debug",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-api"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-network-okhttp",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-svg",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-debug.aar",
+                    "url": "testrockapp-0.0.1-local-debug.aar",
+                    "size": 4831399,
+                    "sha512": "10b6911ded75894932443915a78e3316d681a6fac70fee2cbda88420becfd822dbbf8deb4cc98e324061004db5d80e3540b15a06321ab6e5dc43f99bf784e8ca",
+                    "sha256": "b819eebbfc7d04f54d81b2fae645554822b842486958a7c906bd1992710b8a15",
+                    "sha1": "52c6d6e3ec166662a91c6a7ccc96e1581a2bdb38",
+                    "md5": "fcdf3b78c437ecfa44a2fe09fb3673ce"
+                }
+            ]
+        },
+        {
+            "name": "debugVariantDefaultRuntimePublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "debug",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-runtime"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-network-okhttp",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-svg",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-debug.aar",
+                    "url": "testrockapp-0.0.1-local-debug.aar",
+                    "size": 4831399,
+                    "sha512": "10b6911ded75894932443915a78e3316d681a6fac70fee2cbda88420becfd822dbbf8deb4cc98e324061004db5d80e3540b15a06321ab6e5dc43f99bf784e8ca",
+                    "sha256": "b819eebbfc7d04f54d81b2fae645554822b842486958a7c906bd1992710b8a15",
+                    "sha1": "52c6d6e3ec166662a91c6a7ccc96e1581a2bdb38",
+                    "md5": "fcdf3b78c437ecfa44a2fe09fb3673ce"
+                }
+            ]
+        },
+        {
+            "name": "releaseVariantDefaultApiPublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "release",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-api"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-network-okhttp",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-svg",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-release.aar",
+                    "url": "testrockapp-0.0.1-local-release.aar",
+                    "size": 2522998,
+                    "sha512": "9d326d76759a2495cf7d5d31b4f3b5d41a7f38d0384fb3863b40aa23f7e02df6a677250e68f5ac6c5794af41d953e9d299e8c6642caa7a706d210518cd36902b",
+                    "sha256": "f795c4c3cb0c2fe0b6223099e8f6d98c930c8c6ac39824b9878445bffbf5fe41",
+                    "sha1": "789a3e267b719219ff2f492647251c2daee77626",
+                    "md5": "928606f8912d7e8541f5cfaf6a9e23af"
+                }
+            ]
+        },
+        {
+            "name": "releaseVariantDefaultRuntimePublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "release",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-runtime"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-network-okhttp",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "io.coil-kt.coil3",
+                    "module": "coil-svg",
+                    "version": {
+                        "requires": "3.0.4"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-release.aar",
+                    "url": "testrockapp-0.0.1-local-release.aar",
+                    "size": 2522998,
+                    "sha512": "9d326d76759a2495cf7d5d31b4f3b5d41a7f38d0384fb3863b40aa23f7e02df6a677250e68f5ac6c5794af41d953e9d299e8c6642caa7a706d210518cd36902b",
+                    "sha256": "f795c4c3cb0c2fe0b6223099e8f6d98c930c8c6ac39824b9878445bffbf5fe41",
+                    "sha1": "789a3e267b719219ff2f492647251c2daee77626",
+                    "md5": "928606f8912d7e8541f5cfaf6a9e23af"
+                }
+            ]
+        }
+    ]
+}
