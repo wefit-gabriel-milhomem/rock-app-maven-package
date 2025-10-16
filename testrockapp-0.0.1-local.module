@@ -71,11 +71,11 @@
                 {
                     "name": "testrockapp-0.0.1-local-debug.aar",
                     "url": "testrockapp-0.0.1-local-debug.aar",
-                    "size": 4831399,
-                    "sha512": "10b6911ded75894932443915a78e3316d681a6fac70fee2cbda88420becfd822dbbf8deb4cc98e324061004db5d80e3540b15a06321ab6e5dc43f99bf784e8ca",
-                    "sha256": "b819eebbfc7d04f54d81b2fae645554822b842486958a7c906bd1992710b8a15",
-                    "sha1": "52c6d6e3ec166662a91c6a7ccc96e1581a2bdb38",
-                    "md5": "fcdf3b78c437ecfa44a2fe09fb3673ce"
+                    "size": 4828016,
+                    "sha512": "46cfccfa10d3e0f2e1b85534788d605c86e3bfe290fd4802e02b3acefe0cbe2a9efd2404a66800856aa65cc7d60ae78b97b2ae9adb347ba92fad7421a0d7c978",
+                    "sha256": "a124c8b65b635b636c1005ce8b0834fb6c58f35094bdb0ea862dc0d5fd023eaa",
+                    "sha1": "8b09eb0324920c89c2e6bb705f86530ea19e1bad",
+                    "md5": "a9d9ce0f92cd1a9a296ccdcb55241f9b"
                 }
             ]
         },
@@ -136,11 +136,11 @@
                 {
                     "name": "testrockapp-0.0.1-local-debug.aar",
                     "url": "testrockapp-0.0.1-local-debug.aar",
-                    "size": 4831399,
-                    "sha512": "10b6911ded75894932443915a78e3316d681a6fac70fee2cbda88420becfd822dbbf8deb4cc98e324061004db5d80e3540b15a06321ab6e5dc43f99bf784e8ca",
-                    "sha256": "b819eebbfc7d04f54d81b2fae645554822b842486958a7c906bd1992710b8a15",
-                    "sha1": "52c6d6e3ec166662a91c6a7ccc96e1581a2bdb38",
-                    "md5": "fcdf3b78c437ecfa44a2fe09fb3673ce"
+                    "size": 4828016,
+                    "sha512": "46cfccfa10d3e0f2e1b85534788d605c86e3bfe290fd4802e02b3acefe0cbe2a9efd2404a66800856aa65cc7d60ae78b97b2ae9adb347ba92fad7421a0d7c978",
+                    "sha256": "a124c8b65b635b636c1005ce8b0834fb6c58f35094bdb0ea862dc0d5fd023eaa",
+                    "sha1": "8b09eb0324920c89c2e6bb705f86530ea19e1bad",
+                    "md5": "a9d9ce0f92cd1a9a296ccdcb55241f9b"
                 }
             ]
         },
@@ -201,11 +201,11 @@
                 {
                     "name": "testrockapp-0.0.1-local-release.aar",
                     "url": "testrockapp-0.0.1-local-release.aar",
-                    "size": 2522998,
-                    "sha512": "9d326d76759a2495cf7d5d31b4f3b5d41a7f38d0384fb3863b40aa23f7e02df6a677250e68f5ac6c5794af41d953e9d299e8c6642caa7a706d210518cd36902b",
-                    "sha256": "f795c4c3cb0c2fe0b6223099e8f6d98c930c8c6ac39824b9878445bffbf5fe41",
-                    "sha1": "789a3e267b719219ff2f492647251c2daee77626",
-                    "md5": "928606f8912d7e8541f5cfaf6a9e23af"
+                    "size": 2505591,
+                    "sha512": "298c620377f4e5483bb19899ccb5275086a9a571fd1d95e87138f648fa46e0fa4064ea6b6da9b7a57346360bd5cacf26b1cf61c52e5d9a6a5b50ccd7c1b798b8",
+                    "sha256": "a380447d49f915846644e74914ac5acd1b2a83552bd3dc60717fbbb44ad839ee",
+                    "sha1": "e7583a0ebf8587b6043c17e26c721f841b4ad95a",
+                    "md5": "1b36845d3170026dba7ccbba74857455"
                 }
             ]
         },
@@ -266,11 +266,11 @@
                 {
                     "name": "testrockapp-0.0.1-local-release.aar",
                     "url": "testrockapp-0.0.1-local-release.aar",
-                    "size": 2522998,
-                    "sha512": "9d326d76759a2495cf7d5d31b4f3b5d41a7f38d0384fb3863b40aa23f7e02df6a677250e68f5ac6c5794af41d953e9d299e8c6642caa7a706d210518cd36902b",
-                    "sha256": "f795c4c3cb0c2fe0b6223099e8f6d98c930c8c6ac39824b9878445bffbf5fe41",
-                    "sha1": "789a3e267b719219ff2f492647251c2daee77626",
-                    "md5": "928606f8912d7e8541f5cfaf6a9e23af"
+                    "size": 2505591,
+                    "sha512": "298c620377f4e5483bb19899ccb5275086a9a571fd1d95e87138f648fa46e0fa4064ea6b6da9b7a57346360bd5cacf26b1cf61c52e5d9a6a5b50ccd7c1b798b8",
+                    "sha256": "a380447d49f915846644e74914ac5acd1b2a83552bd3dc60717fbbb44ad839ee",
+                    "sha1": "e7583a0ebf8587b6043c17e26c721f841b4ad95a",
+                    "md5": "1b36845d3170026dba7ccbba74857455"
                 }
             ]
         }
