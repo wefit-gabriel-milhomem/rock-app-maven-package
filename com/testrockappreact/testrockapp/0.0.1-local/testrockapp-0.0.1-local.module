@@ -1,0 +1,194 @@
+{
+    "formatVersion": "1.1",
+    "component": {
+        "group": "com.testrockappreact",
+        "module": "testrockapp",
+        "version": "0.0.1-local",
+        "attributes": {
+            "org.gradle.status": "release"
+        }
+    },
+    "createdBy": {
+        "gradle": {
+            "version": "8.14.3"
+        }
+    },
+    "variants": [
+        {
+            "name": "debugVariantDefaultApiPublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "debug",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-api"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-debug.aar",
+                    "url": "testrockapp-0.0.1-local-debug.aar",
+                    "size": 7081406,
+                    "sha512": "8535e5f2773ad9a8d4c9aa4f4d8295052c1ec046c959c4cf07a796b56c66ca94b1179c63576ac239befe2a3da15a1a6cb2f41be3fa436ae5d45a5ad5aafbdda7",
+                    "sha256": "885e24f4a9b856e555ef2cf6de2edbcf435bc4c1b6734a6836a085d4d5336087",
+                    "sha1": "0d081f60f68137bb7f74200c3a16db9d93ed6f00",
+                    "md5": "7dafd9516c8de0e744f0a383b5619da6"
+                }
+            ]
+        },
+        {
+            "name": "debugVariantDefaultRuntimePublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "debug",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-runtime"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-debug.aar",
+                    "url": "testrockapp-0.0.1-local-debug.aar",
+                    "size": 7081406,
+                    "sha512": "8535e5f2773ad9a8d4c9aa4f4d8295052c1ec046c959c4cf07a796b56c66ca94b1179c63576ac239befe2a3da15a1a6cb2f41be3fa436ae5d45a5ad5aafbdda7",
+                    "sha256": "885e24f4a9b856e555ef2cf6de2edbcf435bc4c1b6734a6836a085d4d5336087",
+                    "sha1": "0d081f60f68137bb7f74200c3a16db9d93ed6f00",
+                    "md5": "7dafd9516c8de0e744f0a383b5619da6"
+                }
+            ]
+        },
+        {
+            "name": "releaseVariantDefaultApiPublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "release",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-api"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-release.aar",
+                    "url": "testrockapp-0.0.1-local-release.aar",
+                    "size": 2637441,
+                    "sha512": "f123c0ef92a49651a515440c78641920129d0bb57a61b042c09f00f847f1e671e69ec4544cc3ea7745ab1f44d30da2e93ac1b8a6d8cb0cfdea568d85efcc6109",
+                    "sha256": "48b588a0b17e82fa30da9e8408d46e452eb4f0714cd5429e5e9922a7a12f0292",
+                    "sha1": "e04fc9919ed0a90402ca4231489f1a96eb00716e",
+                    "md5": "161c29774a2307ce65fc72d22b83c610"
+                }
+            ]
+        },
+        {
+            "name": "releaseVariantDefaultRuntimePublication",
+            "attributes": {
+                "com.android.build.api.attributes.BuildTypeAttr": "release",
+                "org.gradle.category": "library",
+                "org.gradle.dependency.bundling": "external",
+                "org.gradle.libraryelements": "aar",
+                "org.gradle.usage": "java-runtime"
+            },
+            "dependencies": [
+                {
+                    "group": "com.facebook.react",
+                    "module": "react-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "com.facebook.react",
+                    "module": "hermes-android",
+                    "version": {
+                        "requires": "0.81.1"
+                    }
+                },
+                {
+                    "group": "org.jetbrains.kotlin",
+                    "module": "kotlin-stdlib",
+                    "version": {
+                        "requires": "2.1.20"
+                    }
+                }
+            ],
+            "files": [
+                {
+                    "name": "testrockapp-0.0.1-local-release.aar",
+                    "url": "testrockapp-0.0.1-local-release.aar",
+                    "size": 2637441,
+                    "sha512": "f123c0ef92a49651a515440c78641920129d0bb57a61b042c09f00f847f1e671e69ec4544cc3ea7745ab1f44d30da2e93ac1b8a6d8cb0cfdea568d85efcc6109",
+                    "sha256": "48b588a0b17e82fa30da9e8408d46e452eb4f0714cd5429e5e9922a7a12f0292",
+                    "sha1": "e04fc9919ed0a90402ca4231489f1a96eb00716e",
+                    "md5": "161c29774a2307ce65fc72d22b83c610"
+                }
+            ]
+        }
+    ]
+}
